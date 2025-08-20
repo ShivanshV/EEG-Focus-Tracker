@@ -9,12 +9,3 @@ Build a real-time software system that classifies mental states (e.g., focused, 
 - **Environment:** venv
 - **IDE/Notebook:** Jupyter Notebook for prototyping, VS Code for integration
 
-## 📂 Project Structure
-eeg-focus-tracker/
-│── data/ # raw EEG files (excluded from repo)
-│── notebooks/ # Jupyter notebooks for exploration, preprocessing, model training
-│── src/ # Python scripts for reusable functions
-│── models/ # saved ML models (.pkl, .joblib)
-│── dashboard/ # Streamlit app code
-│── .gitignore
-│── README.md
