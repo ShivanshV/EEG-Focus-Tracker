@@ -1,0 +1,21 @@
+# Virtual environments
+venv/
+.venv/
+env/
+eeg-env/
+
+# Data files
+data/
+*.edf
+*.gdf
+*.bdf
+
+# Models
+*.pkl
+*.joblib
+
+# Python cache
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
